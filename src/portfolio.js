@@ -251,7 +251,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://play.google.com/store/apps/details?id=com.scorebee.scorebee&hl=en&gl=US"
+          url: "https://play.google.com/store/apps/details?id=com.congressia.osb&hl=en&gl=US"
         }
       ]
     },
